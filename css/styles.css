@@ -76,3 +76,6 @@ main .main-input-container input{
     border: none;
     outline: none;
 }
+main .main-input-container:hover{
+    box-shadow: 0 1px 6px 0 #20212447;
+}
